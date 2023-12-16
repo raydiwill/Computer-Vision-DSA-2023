@@ -1,1 +1,3 @@
 *.joblib filter=lfs diff=lfs merge=lfs -text
+Assignment[[:space:]]1/saved_models/dog_knn.joblib filter=lfs diff=lfs merge=lfs -text
+Assignment[[:space:]]1/saved_models/digit_knn.joblib filter=lfs diff=lfs merge=lfs -text
