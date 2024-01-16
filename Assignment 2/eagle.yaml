@@ -1,0 +1,4 @@
+train: ../data/train_2/images
+val: ../data/val_2/images
+nc: 1
+names: {0: "Eagle"}
